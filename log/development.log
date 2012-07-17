@@ -1,0 +1,152 @@
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 19:20:39 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 19:23:25 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 19:24:19 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 19:25:31 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 20:29:12 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 20:32:50 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 20:35:11 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 20:37:17 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 20:45:59 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 22:00:42 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (9.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (16.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 22:02:01 -0400
+
+RuntimeError (no driver for sqlite3 found):
+  
+
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (9.0ms)
+Rendered C:/PROGRAMMING/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (17.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-16 23:09:35 -0400
+Connecting to database specified by database.yml
+Served asset /rails.png - 200 OK (12ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 23:09:39 -0400
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (16.0ms)
+Completed 200 OK in 68ms (Views: 68.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-16 23:38:02 -0400
+Connecting to database specified by database.yml
+Served asset /rails.png - 304 Not Modified (2ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 23:38:04 -0400
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (15.0ms)
+Completed 200 OK in 74ms (Views: 74.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-16 23:40:30 -0400
+Served asset /rails.png - 304 Not Modified (1ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 23:40:31 -0400
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-16 23:42:21 -0400
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-16 23:42:23 -0400
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
